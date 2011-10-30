@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://wlads.github.com
+title: Dev Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Wladimir Braguini Domingues
 simple_search: http://google.com/search
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -56,13 +56,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: wlads
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: wlads
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -83,7 +83,7 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:
+delicious_user: wbraguini
 delicious_count: 3
 
 # Disqus Comments
