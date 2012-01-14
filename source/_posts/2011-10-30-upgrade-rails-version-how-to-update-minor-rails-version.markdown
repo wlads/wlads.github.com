@@ -5,7 +5,7 @@ date: 2011-10-30 14:37
 comments: true
 categories: [rails, version, update, upgrade]
 ---
-This post shows how simple is to update one minor version from *Rails 3.1.0* to *Rails 3.1.1*, of course to update major versions like 2.X to 3.X you have a lot of trouble and tutorials available, also to upgrade from Rails 3.0.X to Rails 3.1.X you have a new feature called Asset Pipeline.
+This post shows how simple is to update one minor version from *Rails 3.1.0* to *Rails 3.1.1*, of course to update major versions like 2.X to 3.X you have a lot of trouble and tutorials available, also to upgrade from Rails 3.0.X to Rails 3.1.X you have a new feature called Asset Pipeline... teste
 
 This is the Gemfile spec for rails 3.1.0
 ``` ruby 
